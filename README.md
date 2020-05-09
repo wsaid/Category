@@ -9,5 +9,3 @@ navigate to the root directory for the website and run the following command
 
 ```
 php spark serve
-
-Enjoy
